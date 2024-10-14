@@ -8,6 +8,7 @@
 ##### `cd wcoin`
 ##### `pip install -r requirements.txt`
 ##### `python3 wcoin.py`
+##### Authorization Key : GWWT
 
 ##### Drop star and fork repository if you love it ❤️ 
 #### Our Telegram Channel @amaanhacker
